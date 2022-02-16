@@ -23,7 +23,7 @@ tput sgr0
 echo "################################################################## "
 echo
 
-	isoLabel='aa-archlinux-'$(date +%Y.%m.%d)'-x86_64.iso'
+	isoLabel='acc-aa-archlinux-'$(date +%Y.%m.%d)'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 61-1"
